@@ -7,4 +7,5 @@ echo "Suma: " . ($num1 + $num2) . "\n";
 echo "Resta: " . ($num1 - $num2) . "\n";
 echo "Multiplicación: " . ($num1 * $num2) . "\n";
 echo "División: " . ($num1 / $num2) . "\n";
-echo "Potencia: " . ($num1 ** $num2);
+echo "Potencia: " . ($num1 ** $num2) . "\n";
+echo "Raíz cuadrada: " . sqrt($num1); 
